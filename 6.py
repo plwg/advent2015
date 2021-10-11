@@ -1,6 +1,6 @@
 # read input
 
-file = open("d6_input.txt", "r")
+file = open("6_input.txt", "r")
 lines = file.read().splitlines()
 
 # store lights in a 1,000,000 list

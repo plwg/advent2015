@@ -1,4 +1,4 @@
-file = open("d7_input.txt", "r")
+file = open("7_input.txt", "r")
 lines = file.read().splitlines()
 
 wires = {'b':16076} # hotwire for part 2
